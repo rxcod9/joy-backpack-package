@@ -4,7 +4,7 @@ This [Laravel](https://laravel.com/)/[Backpack](https://backpackforlaravel.com/d
 
 By 🐼 [Ramakant Gangwar](https://github.com/rxcod9).
 
-<!-- [![Screenshot](https://raw.githubusercontent.com/rxcod9/joy-replace-keyword/main/cover.jpg)](https://joy-backup.herokuapp.com) -->
+<!-- [![Screenshot](https://raw.githubusercontent.com/rxcod9/joy-replace-keyword/main/cover.jpg)](https://joy-backpack.herokuapp.com) -->
 
 [![Latest Version](https://img.shields.io/github/v/release/rxcod9/joy-replace-keyword?style=flat-square)](https://github.com/rxcod9/joy-replace-keyword/releases)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/rxcod9/joy-replace-keyword/run-tests?label=tests)
@@ -44,7 +44,7 @@ In order to override views delivered by Backpack DataTable, copy contents from `
 
 ## Working Example
 
-You can try laravel demo here [https://joy-backup.herokuapp.com/api/documentation](https://joy-backup.herokuapp.com/api/documentation).
+You can try laravel demo here [https://joy-backpack.herokuapp.com/api/documentation](https://joy-backpack.herokuapp.com/api/documentation).
 
 ## Documentation
 
