@@ -31,7 +31,7 @@ class ReplaceKeywordServiceProvider extends ServiceProvider
      */
     public function register(): void
     {
-        $this->mergeConfigFrom(__DIR__.'/../config/replace-keyword.php', 'joy-replace-keyword');
+        $this->mergeConfigFrom(__DIR__ . '/../config/replace-keyword.php', 'joy-replace-keyword');
 
         // Register the service the package provides.
         $this->app->singleton('joy-replace-keyword', function ($app) {
@@ -58,7 +58,7 @@ class ReplaceKeywordServiceProvider extends ServiceProvider
     {
         // Publishing the configuration file.
         $this->publishes([
-            __DIR__.'/../config/replace-keyword.php' => config_path('joy-replace-keyword.php'),
+            __DIR__ . '/../config/replace-keyword.php' => config_path('joy-replace-keyword.php'),
         ], 'joy-replace-keyword.config');
 
         // Publishing the views.
