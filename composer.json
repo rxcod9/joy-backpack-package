@@ -1,7 +1,7 @@
 {
     "name": "joy/replace-keyword",
     "description": "Joy ReplaceKeyword",
-    "license": "license",
+    "license": "MIT",
     "authors": [
         {
             "name": "Ramakant Gangwar",
